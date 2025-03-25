@@ -1,0 +1,4 @@
+com\info\crudjavaspring\model\Cardapio.class
+com\info\crudjavaspring\repository\CardapioRepository.class
+com\info\crudjavaspring\controller\CardapioController.class
+com\info\crudjavaspring\CrudjavaspringApplication.class
